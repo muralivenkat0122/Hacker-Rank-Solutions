@@ -44,8 +44,8 @@ public class InsertionSort {
 				ar[j] = in.nextInt();
 				// System.err.println(ar[j]);
 			}
-			long c = insertSort(ar);
-			System.out.println(c);
+			//long c = insertSort(ar);
+			System.out.println(insertSort(ar));
 
 		}
 		in.close();
