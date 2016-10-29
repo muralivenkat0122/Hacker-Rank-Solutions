@@ -41,7 +41,7 @@ package day21hacker.Generics;
 
 /**
  * @author Murali Venkat 
- *
+ * Generics
  */
 public class GenericsSolution {
 
